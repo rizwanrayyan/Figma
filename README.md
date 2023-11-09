@@ -413,7 +413,8 @@ color: #110101;
 
 ## OUTPUT:
 
-![Alt text](output.png)
+![image](https://github.com/rizwanrayyan/Figma/assets/121215820/01620987-eb03-4115-8892-a60dc5cecf73)
+
 
 
 ## RESULT:
